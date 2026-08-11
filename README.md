@@ -2,6 +2,6 @@
 
 Name: Christian Paul O. Flores
 
-Course & Section: BSIT 4-L
+Course & Section: BSIT 4-A
 
 Description: This repository serves as a portfolio and storage for my laboratory outputs, cloud configurations, and practical activities in CCM 101: Cloud Computing.
