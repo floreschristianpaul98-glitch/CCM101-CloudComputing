@@ -41,3 +41,7 @@ Description: This repository serves as a portfolio and storage for my laboratory
 
 ### Screenshot Evidence
 KillerCoda Terminal Output - Ubuntu 24.04 LTS system specifications captured
+
+
+<img width="1917" height="967" alt="Screenshot 2026-09-01 140405" src="https://github.com/user-attachments/assets/51b86571-07f8-4478-8377-5e07d744d84e" />
+
