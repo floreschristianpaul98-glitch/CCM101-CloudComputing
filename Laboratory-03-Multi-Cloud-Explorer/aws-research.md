@@ -94,3 +94,6 @@ AWS offers multiple pricing models including On-Demand, Reserved Instances, Spot
 ## Summary
 
 AWS remains the market leader in cloud computing due to its extensive service portfolio, global infrastructure, and proven reliability. Organizations selecting AWS benefit from industry-leading scalability, comprehensive documentation, and a mature ecosystem of third-party integrations and managed services.
+
+<img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/f480f69e-3a0b-4270-a46d-45a6af003c72" />
+
