@@ -97,3 +97,6 @@ Azure offers industry-leading AI services including Azure Cognitive Services (vi
 ## Summary
 
 Microsoft Azure excels as the platform for organizations with Microsoft technology investments and hybrid cloud requirements. Its deep integration with the Microsoft ecosystem, enterprise security features, and advanced AI capabilities make it particularly suitable for large organizations seeking to modernize their IT infrastructure while maintaining existing technology investments.
+
+<img width="1895" height="827" alt="image" src="https://github.com/user-attachments/assets/a128ed09-fcd2-4801-9859-22ea2fdd1c25" />
+
