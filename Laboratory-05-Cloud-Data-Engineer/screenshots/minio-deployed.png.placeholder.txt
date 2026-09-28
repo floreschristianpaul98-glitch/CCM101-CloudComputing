@@ -1,1 +1,0 @@
-Replace this placeholder with your actual screenshot and rename it to minio-deployed.png.
