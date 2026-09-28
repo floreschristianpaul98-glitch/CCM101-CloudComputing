@@ -12,7 +12,7 @@ The exact command provided in the laboratory activity is:
 docker run -d -p 9000:9000 -p 9001:9001 --name minio-server \
 -e "MINIO_ROOT_USER=cloudadmin" \
 -e "MINIO_ROOT_PASSWORD=CloudNova2026!" \
-minio/minio server /data --console-address ":9001"
+elestio/minio server /data --console-address ":9001"
 ```
 
 ### Command Breakdown
@@ -21,7 +21,7 @@ minio/minio server /data --console-address ":9001"
 - `-p 9000:9000` — maps the MinIO API port from the container to the host.
 - `-p 9001:9001` — maps the MinIO Web Console port from the container to the host.
 - `--name minio-server` — gives the container the name `minio-server`.
-- `minio/minio` — specifies the MinIO Docker image.
+- `elestio/minio` — specifies the MinIO Docker image.
 - `server /data` — starts MinIO in server mode using `/data` for object storage.
 - `--console-address ":9001"` — tells MinIO to make its Web Console available on port 9001.
 
