@@ -1,1 +1,0 @@
-Replace this placeholder with your real browser screenshot showing the Nextcloud installation page; name the image nextcloud-web.png.
