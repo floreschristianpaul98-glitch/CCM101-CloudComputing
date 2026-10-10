@@ -1,0 +1,1 @@
+Replace this placeholder with your real terminal screenshot showing containers stopped and removed; name the image compose-teardown.png.
